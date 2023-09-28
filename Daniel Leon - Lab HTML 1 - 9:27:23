@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title style="color:blue;"> Personal Portfolio </title>
+    </head>
+    <body>
+        <h1 style="background-color: aquamarine;">Daniel Leon</h1>
+        <h3 style="background-color: aquamarine;color: rgb(94,187,94);" >Hillier College of Architecture and Design, DAL55, B.Arch </h3>
+        <p-style="background-color: aquamarine;>Daniel Leon is an 18 year old architecture student at NJIT taking the five years Bachelor course.<br>
+        He took drafting classes during his Junior and Senior year of high school and was fascinated by complex structures <a href="https://www.njit.edu/academics/major/architecture"> architecture workk</a> 
+        and designs that are present in the architcetural field.</p>
+    </body>
+    <img scr="car.jpg" width="800" height="500">
+</html>
